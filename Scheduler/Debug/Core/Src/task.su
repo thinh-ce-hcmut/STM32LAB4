@@ -1,0 +1,6 @@
+task.c:11:6:LED_0_Display	8	static
+task.c:15:6:LED_1_Display	8	static
+task.c:20:6:LED_2_Display	8	static
+task.c:25:6:LED_3_Display	8	static
+task.c:30:6:LED_4_Display	8	static
+task.c:35:6:LED_5_Display	8	static
